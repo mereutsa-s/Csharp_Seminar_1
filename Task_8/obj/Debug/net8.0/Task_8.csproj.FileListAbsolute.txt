@@ -1,0 +1,15 @@
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\bin\Debug\net8.0\Task_8.exe
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\bin\Debug\net8.0\Task_8.deps.json
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\bin\Debug\net8.0\Task_8.runtimeconfig.json
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\bin\Debug\net8.0\Task_8.dll
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\bin\Debug\net8.0\Task_8.pdb
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.AssemblyInfoInputs.cache
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.AssemblyInfo.cs
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.csproj.CoreCompileInputs.cache
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.sourcelink.json
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.dll
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\refint\Task_8.dll
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.pdb
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\Task_8.genruntimeconfig.cache
+C:\Users\mereu\OneDrive\Desktop\GeekBrains\Seminar_1\Task\Task_8\obj\Debug\net8.0\ref\Task_8.dll
